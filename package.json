@@ -1,0 +1,23 @@
+{
+    "name": "mit-insights",
+    "version": "1.0.0",
+    "description": "Post your blogs here",
+    "main": "index.js",
+    "scripts": {
+      "build": "webpack"
+    },
+    "keywords": [],
+    "author": "Shivajee",
+    "license": "MIT",
+    "dependencies": {
+      "any-dependencies-you-have": "version"
+    },
+    "devDependencies": {
+        "webpack": "^5.30.0",
+        "webpack-cli": "^4.6.0",
+        "@babel/core": "^7.13.10",
+        "@babel/preset-env": "^7.13.10",
+        "babel-loader": "^8.2.2"
+      }      
+  }
+  
